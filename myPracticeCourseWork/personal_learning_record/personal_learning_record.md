@@ -3,11 +3,11 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
-| Github Submission Repository URL | |
+| Student Name |Dominion Iwara Arikpo|
+| Student Number |Q103048642|
+| Student Email |0arikd42@solent.ac.uk|
+| Github Account Username |Domiarik1|
+| Github Submission Repository URL |https://github.com/Domiarik1/COM304_FOUNDATION_1/edit/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md#L6C16|
 
 ## Introduction
 
