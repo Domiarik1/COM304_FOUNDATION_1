@@ -4,7 +4,10 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
+Short history of computing.
+Getting started with Git.
+Creating a project plan.
+Getting started with Rasberry Pi.
 
 
 ## Personal Notes and research following this session
@@ -12,8 +15,11 @@
 
 
 
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
+Creating a Github account.
+Creating a Rasberry Pi.
 
 
 
