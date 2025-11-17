@@ -1,14 +1,16 @@
 Personal Learning Record | Session Notes
 
-Session 1
+# Session 1
 
-Topics covered
+## Topics covered
 
 What topics were covered in this session
+
 Short history of computing.
 Getting started with Git.
 
 Starting a personal learning record/project diary.
+
 Creating a project plan.
 Getting started with Raspberry Pi.
 
@@ -20,7 +22,7 @@ Which class sessions and personal research refers to technology in this proposal
 
 The Raspberry Pi teaches how hardware and software work together, program hardware and how software controls devices, you can writes code and instantly see it control lights or sensors, it also encourages creativity because you can use it to build many different types of projects.
 
-What exercises did you complete. What results. Screen shots and notes
+# What exercises did you complete. What results. Screen shots and notes
 Creating a GitHub account.
 
 Using GitHub for work.
@@ -32,7 +34,7 @@ How to use Node-RED.
 
 Experiments with IO on Raspberry Pi.
 
-Summary of learning
+# Summary of learning
 
 What did you learn through these exercises
 
