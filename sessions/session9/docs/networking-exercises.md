@@ -82,7 +82,7 @@ Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
 
 In a simple network like this, the PC and the PI only need to know the address of a `default gateway` to talk to the Internet.
 
-If the device does not have the destination in it's routing table, it will send it to the `default gateway` with the highest metric. 
+If the device does not have the destination in it's routing table, it will send it to the `default gateway` with the lowest metric. 
 In the table above, we can see that the Pi will prefer to use the eth0 wired connection before using the wlan0 connection as its gateway.
 In or experiments this might not be correct because we know that only the wired network has connectivity to the internet using eduroam.
 
@@ -99,7 +99,8 @@ sudo route add -net default gw 10.10.0.1 netmask 0.0.0.0 dev wlan0 metric 1
 
 ### PC Ethernet Config and Routing Table
 
-We can also look at the ports on the PC using `ipconfig`  in powerShell
+We can also look at the ports on the PC using `ipconfig`  in powerShell.
+(ipconfig /all will also show the mac address)
 
 ```
 PS C:\Users\cg02r> ipconfig
