@@ -7,8 +7,9 @@
 A hot desk is a shared workspace arragement where employees do not have assigned desks. Instead, they use any available desk on a first-come, first-served basis. This approach is common and flexible workplaces, coworking spaces, and remote-friendlycompanies. Hot desking
 
 
-[Nguyen, N.N., Varsani, K.V., Avgoulas, M.I., Carey, C., Drakopoulos, T. and Carey, L., 2024. The Effects of ‘Hot-desking’on Staff Morale: An Exploratory Literature Scoping Review.](https://opal.latrobe.edu.au/articles/report/The_Effects_of_Hot-desking_on_Staff_Morale_An_Exploratory_Literature_Scoping_Review/26877511?file=48895486)
 
+
+http://edoc.bseu.by:8080/bitstream/edoc/102679/1/Kozlovskaya_60_61.pdf
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
