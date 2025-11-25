@@ -4,7 +4,9 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
-A hot desk is a shared workspace arragement where employees do not have assigned desks. Instead, they use any available desk on a first-come, first-served basis. This approach is common and flexible workplaces, coworking spaces, and remote-friendlycompanies. Hot desking
+A hot desk is a shared workspace arragement where employees do not have assigned desks. Instead, they use any available desk on a first-come, first-served basis. This approach is common and flexible workplaces, coworking spaces, and remote-friendlycompanies. The modern workplace is changing due to technological progress, changes in the structure of work and growing expectations of employees. The central element of this transformation is the concept of "hot-desking", where people share office space and resources, often without fixed workplace assignments. Thanks to this research, the advantages of the hot-desking system in the economy and production activities of companies will be identified.
+The basis of the introduction is the traditional concept of the office as a stable transformation is associated with the creation of "hot desking" an innovative approach to workspace management, which is developed on flexibility and resource optimization. The development of hot desking systems has had a strong impact on the structure and dynamics of the economy. This article examines the various consequences of such a system, studies the impact on the economic efficiency, productivity of the economies adapt to this, understanding the complex relationship between a flexible system and economic factors becomes increasingly important.
+The hot-desking system is becoming popular and economically profitable for doing business, For the employer, this is primarily and opportunity to save resources and money of the enterprise. This is an opportunity for offices seeking to organize their office space more productively. Research shoes that this innovation eliminates the traditional allocation of seats, employees can choose where they want to sit and which table to use.
 
 
 
