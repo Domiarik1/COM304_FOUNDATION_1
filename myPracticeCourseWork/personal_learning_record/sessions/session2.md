@@ -25,6 +25,7 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071
 
 How to use Node-RED: This resulted to a clearer understanding of how data flows through connected systems and how automation can be built without complex coding. Its visual interface makes it easy to design, test, and adjust workflows by linking nodes together. This encourages experimentation and problem-solving. You learn how to intergrate APIs, sensors, and IoT devices, creating practical real-world applications. Node-RED also helped in improving efficiency by allowing rapid prototyping and quick deployment of automation tasks. As my skills grow, i believe i could build dashboards, manage events, and create more advanced flows.
 
+GitHub Clone and Merge: This results to improved version and control skills and collaborative coding efficiency. Cloning repositories allows you to work on a complete project locally, understanding its structure and history. Practising merges taught me how to integrate changes from different branches, resolving conflicts and maintaining a clean project timeline. These skills help manage teamwork, as multiple contributors can update code simultaneously without losing work. I also gained confidence in tracking revisions, experimenting safely, and keeping projects organised. 
 
 ## Summary of learning
 
