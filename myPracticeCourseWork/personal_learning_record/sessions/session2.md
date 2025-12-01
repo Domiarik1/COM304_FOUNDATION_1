@@ -23,11 +23,15 @@ https://onlinelibrary.wiley.com/doi/full/10.1002/9780470050118.ecse071
 
 *What exercises did you complete. What results. Screen shots and notes*
 
-Experiments with IO on my Raspberry Pi, Using traffic lights flow examples, Node RED, and configuring the Gertboard and got it working with the WiringPi library.
+How to use Node-RED: This resulted to a clearer understanding of how data flows through connected systems and how automation can be built without complex coding. Its visual interface makes it easy to design, test, and adjust workflows by linking nodes together. This encourages experimentation and problem-solving. You learn how to intergrate APIs, sensors, and IoT devices, creating practical real-world applications. Node-RED also helped in improving efficiency by allowing rapid prototyping and quick deployment of automation tasks. As my skills grow, i believe i could build dashboards, manage events, and create more advanced flows.
+
+Experiments with IO on Raspberry Pi: This resulted in a stronger understanding of how hardware and software interact. By working with GPIOs pins, LEDs, buttons, and sensors, i gained hands-on experience with digital signals and basic electronics. These projects improve problem-solving skills as i test circuits, debug code, and avalyse inputs and outputs. I also learnt how Python controls physical components, helping me see how programming can influence real-world systems. As my confidence grows, i believe i can create more advanced projects such as alarms, environmental monitors, or simple robotics.
 
 ## Summary of learning
 
 *What did you learn through these exercises*
 
-*How CPU could be constructed using logic gates, how to use the GPIO, how the Pi has a 40 pin connector to the GPIO, the peripherals architecture on a Pi, and how Raspberry Pi communicates with the outside world.*
+*How CPU could be constructed using logic gates: By combining them to create componets like adders, multiplexers, and registers. These gates process binary signals, enabling arithmetic, decision-making, and data control, forming the fundamental building blocks of a processor.
+how to use the GPIO: Helped with the ability to be able to control and interact with hardware components understanding of digital signals, circuits, and programming, enabling practical projects that connect software to real-world electronics effectively and safely.
+how the Pi has a 40 pin connector to the GPIO, the peripherals architecture on a Pi, and how Raspberry Pi communicates with the outside world.*
 
