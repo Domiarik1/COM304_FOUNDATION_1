@@ -35,9 +35,6 @@ Creating a Raspberry Pi.
 
 Coding with the 4 bit processor, ARM Assembler and C programming using CPUlator, and the seven segment display: This resulted to a deeper understanding of low-level computing, because you must work with limited memory, small instructions sets, and simple data handling. These restrictions encourage efficient programming and careful planning. I learnt how binary operations, registers, and basic logic control the processor's behaviour. Writing programs for a 4-bit system strengthens your grasp of machine-level processes, such as arithmetic, branching, and memory access. it also helps you appreciate how modern processors evolved from these simple architectures. 
 
-How to use Node-RED: This resulted to a clearer understanding of how data flows through connected systems and how automation can be built without complex coding. Its visual interface makes it easy to design, test, and adjust workflows by linking nodes together. This encourages experimentation and problem-solving. You learn how to intergrate APIs, sensors, and IoT devices, creating practical real-world applications. Node-RED also helped in improving efficiency by allowing rapid prototyping and quick deployment of automation tasks. As my skills grow, i believe i could build dashboards, manage events, and create more advanced flows.
-
-Experiments with IO on Raspberry Pi: This resulted in a stronger understanding of how hardware and software interact. By working with GPIOs pins, LEDs, buttons, and sensors, i gained hands-on experience with digital signals and basic electronics. These projects improve problem-solving skills as i test circuits, debug code, and avalyse inputs and outputs. I also learnt how Python controls physical components, helping me see how programming can influence real-world systems. As my confidence grows, i believe i can create more advanced projects such as alarms, environmental monitors, or simple robotics.
 
 # Summary of learning
 
