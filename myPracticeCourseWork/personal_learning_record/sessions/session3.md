@@ -25,3 +25,5 @@ Experiments with IO on Raspberry Pi: This resulted in a stronger understanding o
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+I learnt that using IO on a Raspberry Pi teaches a wide range of practical and technical skills that deepen my understanding of how computers interact with the physical world. One of the first things i learned is how the GPIO pins work and how it allow the Raspberry Pi to send and recieve digital signals. Through simple project like blinkign and LED or reading input from a push botton, i began to understand the basics of electronics, including circuits, voltage, current and safe wiring. I also learnt how software controls hardware. Writing Python code to manage inputs and outputs helped me see how programming translates into real-world actions. Also working with sensors such as temperature sensors and light sensors, This taught me how computers gather and process real-world data and builds my confidence in coding, logic, and problem-solving as i test, debug, and improve my projects. 
