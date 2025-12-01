@@ -4,7 +4,8 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
+More Architecture
+Experiments with IO on your Raspberry Pi
 
 
 ## Personal Notes and research following this session
