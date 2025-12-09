@@ -17,6 +17,19 @@ Implementing it involves combining affordable hardware, sensors, and network con
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+Session 1 (Getting Started with your Raspberry Pi).
+
+In the past, museums have been places where history and culture are narrated. In recent years, many museum research projects have used tangible systems and mobile applications to replace or augment the traditional museum tour. However, many of these projects provide what are essentially electronic labels rather a new narrative modality. The reason behind people visiting museums is to have declarative learning which means to acquire information that they can speak about. Issues such as social experiences, reflection and connections between cultures, are important parts of the experience. New approaches to help visitors learn and reflect upon these cultural issues in support of museums’ new roles of shaping cultural identify and community building to be explored. This research collaborated with the Baba Nyonya Culture Heritage Museum, Malacca to focus on the Baba Nyonya culture. Because of the cultural diversity of the country, the rich, fusion culture of the Baba Nyonya cuts to the heart of this. 
+
+A pilot museum study was conducted to enhance visitor engagement in cultural learning and reflection by exploring IoT approach to support physical interaction and multisensory experiences. However, the pilot study revealed limited evidence of cultural reflection. In order to improve the result of pilot study, particularly to trigger more reflection, the museum visiting experience was designed as an IoT serious game to include five interactive exhibits -an online trading game, improved Batu Boh and Goldsmith simulators, a new lantern mapping and a virtual house decoration station. The IoT serious game focuses on extending the interactive exhibits to incorporate elements of serious games (games with an educational motivation) to further enhance the visitor experience and encourage cultural reflection using IoT technology. The main museum study design showed how an IoT serious game can be developed with the help of design goals serving as guidelines. The result of the main museum study revealed most participants achieved learning gain to form new understanding of the Peranakan culture and considerably high success in engaging visitors and supporting different levels of reflection. One of the main contributions of the museum studies is the synthesise and translation of design lessons learned as a guideline for future IoT game development. 
+
+The last phase of research involved solving some of the challenges identified in the study, specifically in difficulty with IoT game ideation and establishing communication between IoT sensors and virtual game to allow future museum teams to build similar game experience more easily and effectively. The project introduced an IoT toolkit for future designers to consist of an IoT card game to support game design ideation and IoT development kit as plugin between IoT sensors and the game development platform. The contributions of this thesis are a set of prototype demonstrators, toolkits and guidelines for designing IoT serious game that will aid future developers in designing for cultural learning and reflective experience in museums.
+
+Huang, H., 2020. An IoT approach to bridging virtual and physical reflective learning experiences in museums (Doctoral dissertation, University of Nottingham).
+
+https://eprints.nottingham.ac.uk/60804/
+
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
@@ -31,7 +44,8 @@ Implementing it involves combining affordable hardware, sensors, and network con
     <td>
       <ol>
         <li>idea</li>
-        <li>idea</li>
+
+       <li>idea</li>
         <li>idea</li>
       </ol> 
     </td>
