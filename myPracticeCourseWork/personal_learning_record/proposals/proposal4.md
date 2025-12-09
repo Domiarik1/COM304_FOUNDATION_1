@@ -33,6 +33,19 @@ https://eprints.nottingham.ac.uk/60804/
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Flexible and programmable:
+
+Can adapt to different environments, entrances, lighting conditions.
+
+Supports Python, OpenCV, machine learning models, and various sensors.
+
+2. Low cost:
+
+Raspberry Pi (Pi Zero 2W, Pi 3/4) are significantly cheaper than most commercial football-tracking systems.
+
+Easy to deploy at multiple entrances/exits without major capital expense
+
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
@@ -43,17 +56,16 @@ https://eprints.nottingham.ac.uk/60804/
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-
-       <li>idea</li>
-        <li>idea</li>
+        <li>Cost-Effective and scalable.</li>
+       <li>Flexible and highly customizable.</li>
+        <li>Strong IoT connectivity for Real-Time Data.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Requires technical expertise for setup and maintenance.</li>
+        <li>Accuracy limitations in crowded or complex environments.</li>
+        <li>Hardware durability and reliability concerns.</li>
       </ol> 
     </td>
   </tr>
@@ -64,16 +76,16 @@ https://eprints.nottingham.ac.uk/60804/
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Integration with smart building systems.</li>
+        <li>Potential for expanding services and improving visitors experience.</li>
+        <li>Enhanced visitors analytics and Data-Driven decision making.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Dependence on network and power stability.</li>
+        <li>Cybersecurity vulnerabilities.</li>
+        <li>Component shortages or hardware obsolescence.</li>
       </ol> 
     </td>
   </tr>
@@ -90,16 +102,16 @@ https://eprints.nottingham.ac.uk/60804/
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Privacy and data protection.</li>
+        <li>Funding and public policy support.</li>
+        <li>Public transparency and accountability.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cost savings compared to commercial systems.</li>
+        <li>Data-Driven optimization of resources.</li>
+        <li>Cost savings compared to commercial systems.</li>
       </ol> 
     </td>
   </tr>
@@ -110,16 +122,16 @@ https://eprints.nottingham.ac.uk/60804/
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improving visitor experience.</li>
+        <li>Promoting accessibility and inclusivity.</li>
+        <li>Encouraging public engagement and transparency.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Integration with sensor fusion.</li>
+        <li>Edge computing for Real-Time analytics.</li>
+        <li>IoT connectivity and cloud integration.</li>
       </ol> 
     </td>
   </tr>
@@ -129,7 +141,14 @@ https://eprints.nottingham.ac.uk/60804/
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* How will the Raspberry Pi handle crowd surges and simultaneous entries/exits?
+  
 * question 2
+
+* What software or algorithms will we use for accurate people detection and direction counting?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Using Raspberry Pi's for people counting is a cost-effective, flexible and scalable solution for monitoring visitor flow, they can integrate with a variety of sensors, including cameras, infrared break-beams, and Time-of-Flight sensors, making them adaptable to different entrance layouts and lighting conditions. With IoT connectivity, data can be sent in real-time to dashboards or cloud systems, enabling occupancy tracking, crowd management, and analytic that support operational efficiency and visitor experience.
