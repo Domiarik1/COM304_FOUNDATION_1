@@ -36,6 +36,24 @@ Findings strongly suggest that the hot-desking may cost more in lost productivit
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Cost-Benefit Analysis(CBA)
+Benefits often highlighted: reduced real-estate cost, lower maintenance, fewer idle desks.
+Cost considered: morale impact, IT requirements, organizational change.
+Why it supports hot-desking: CBA typically shows strong financial gains, especially when desk utilization is low (commonly 40-60% in hybrid workplaces).
+
+2. Space Utilization Analysis:
+Uses occupancy data (manual counts, badge scans, sensor analytics) to determine how often desks are actually used.
+
+Why it supports hot-desking:
+Most offices discover large amounts of unused space, making shared desks appear significantly more efficient.
+
+Tools often used:
+Density heat maps.
+Desk usage logs.
+IoT occupancy sensors.
+Resource allocation dashboards.
+
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
