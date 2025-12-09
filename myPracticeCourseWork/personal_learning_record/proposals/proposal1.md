@@ -33,7 +33,7 @@ http://edoc.bseu.by:8080/bitstream/edoc/102679/1/Kozlovskaya_60_61.pdf
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>It uses less office space</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
