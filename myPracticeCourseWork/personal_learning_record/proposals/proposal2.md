@@ -162,7 +162,8 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
 * question 1
 * What are the cost and RIO of moving to the cloud.
 * question 2
-How will security, compliance, and data privacy be ensured.
+* How will security, compliance, and data privacy be ensured.
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
 Moving software from a server room into the cloud involves migrating applications, data, and services from on-premises physical servers to cloud-based infrastructure managed by a third-party provider. The transition allows organizations to access computing resources over the internet, providing benefits such as scalability, reduced hardware maintenance, improved reliability, and easier remotes access.
