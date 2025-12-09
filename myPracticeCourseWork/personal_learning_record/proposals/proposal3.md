@@ -17,6 +17,18 @@ Counsellors should be provided with council-approved devices or have their perso
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+For the purposes of online counseling, a mental health professional needs a computer, an Internet connection (high-speed, ideally), and a web browser. As an online counselor, one may prefer to use a special email address used only for online counseling work. Beyond that, one may wish to consider: a stand-alone email application, a stand-alone chat application, a video conferencing program and webcam, a domain name, a website, a web hosting account (to store a website), security software/hardware, social media accounts (e.g., Facebook, Twitter), and virtual world account. Online counselors need to be familiar with the “tools of the trade” namely, the technological under pinnings of online counseling. Having a general idea of how everything works behind the scenes will allow one to be a better online counselor and respond appropriately when there are technical issues to address. This chapter can be used as a starting point from which to incorporate new technologies into online counseling work so that one can provide the most efficient online counseling services.
+
+The coronavirus pandemic necessitated rapid shifts in approach for service providers working with survivors of interpersonal violence. To reduce the spread of the virus, providers and agencies implemented a rapid and unplanned expansion of virtual services while also developing new protocols to support safe and socially distant in-person services. To understand how these shifts have impacted victim service professionals and the survivors they serve, to provide guidance for on-going efforts, and to inform planning for future public health emergencies, this study asks the question: What approaches did the interpersonal violence workforce use to address social distancing needs during COVID-19? Semi-structured interviews were conducted from July to December 2020 with 33 interpersonal violence service providers from across the United States, and data were analyzed via conventional content analysis with additional steps for data credibility. 
+
+Findings fall within two primary categories: Technology and Virtual Service Provision and Social Distancing for In-person Services. Within each category, a number of themes emerged illustrating strengths and challenges of each approach, and the complex web of technological, safety, and public health considerations being balanced in interpersonal violence service agencies. These results provide guidance for the implementation of virtual services in an on-going manner, as well as underscoring the importance of future planning to facilitate effective in-person but physically distant services. There is also a clear need for agencies to support the interpersonal violence workforce to reduce occupational stress and enhance skills and capacities with new forms of services.
+
+https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780123785961000046
+
+(Voth Schrag, R.J., Leat, S., Backes, B., Childress, S. and Wood, L., 2023. “So many extra safety layers:” Virtual service provision and implementing social distancing in interpersonal violence service agencies during COVID-19. Journal of family violence, 38(2), pp.227-239.)
+
+https://link.springer.com/article/10.1007/s10896-021-00350-w
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
