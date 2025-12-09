@@ -20,6 +20,12 @@ We believe that the links we have exposed herebetween contextual factors, active
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+Session 5 (Open and Closed Source).
+The study shows that sensor data can be used for desk allocation in a hot-desking environment utilising activity-based working, with results that outweigh the costs of occupancy detection. The authors are not only able to optimise desk utilisation based on quality occupancy data but also demonstrate how overall productivity increases as individuals are allocated desks of their preference as much as possible among other enabling optimisations that can be applied. Moreover, the authors explore how an increase in occupancy data collection in the private sector could have key advantages for the business as an organization and the city as a whole.
+
+The research explores only one possible incarnation of intelligent hot-desking, and the authors presume that all data have already been collected, and while not insurmountable, they do not discuss the technical or cultural difficulties to this end. Furthermore, final examination of the productivity benefit – because of the difficulty in defining and measuring the concept – is exploratory rather than definitive. This research suggests that not only human-centric smart building research should be prioritised over energy or space-based themes but also large-scale private sector collection of occupancy data may be imminent, and its potential should be examined.
+
+Findings strongly suggest that the hot-desking may cost more in lost productivity than it gains in reduced rental costs and as such many commercial offices should revaluate the transition, particularly with a view to facilitate intelligent hot-desking. Companies should begin to think strategically about the wider benefits of collecting occupancy data across their real estate portfolio, rather than reviewing use cases in silos. Finally, cities should consider scenarios of widespread collection of occupancy data in the private sector, examining the value these data have to city systems such as transport, and how the city might procure it for these ends.
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
