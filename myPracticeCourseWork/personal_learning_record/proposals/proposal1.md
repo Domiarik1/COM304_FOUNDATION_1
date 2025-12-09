@@ -64,15 +64,15 @@ Resource allocation dashboards.
   <tr>
     <td>
       <ol>
-        <li>It uses less office space</li>
+        <li>It uses less office space.</li>
         <li>It significantly reduces office space costs by eliminating unused desks.</li>
-        <li>idea</li>
+        <li></li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduced sense of ownership and belonging(employees may feel less connected to their workspace when they can't personalize a permanent desk.</li>
+        <li>Potential for daily setup frustration(finding a suitable desk, reconnecting equipment, and adjusting settings can create inefficiencies and stress.</li>
         <li>idea</li>
       </ol> 
     </td>
