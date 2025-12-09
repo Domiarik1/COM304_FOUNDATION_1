@@ -10,6 +10,9 @@ This outlines a plan to move the software currently hosted in our on-premises se
 Cloud providers offer enterprise-grade security, including data encryption, access controls, and continuous monitoring that surpass typical locally hosted environments, moving to the cloud eliminates the need to maintain physical servers, cooling systems, and hardware replacements. The organisation pays only for the resources it uses. Cloud resources can scale up or doen instantly based on demand, supporting business growth without major capital investment.  Cloud-hosted applications are accessible securely from any location, improving flexibility and productivity.
 
 
+Moving sostware into the cloud involves assessing current systems, choosing a suitable cloud provider, and selecting a migration srategy such as lift-and-shift or modernisation.
+
+
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
