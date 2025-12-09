@@ -58,16 +58,16 @@ Ensures data is protected even when accessed off-site.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improved work-life balance and staff satisfaction.</li>
+        <li>Continuity of service delivery.</li>
+        <li>Secure access to client information.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Potential data security and privacy risks.</li>
+        <li>Reduced ability to supervise and support staff.</li>
+        <li>Dependence on home technology and internet reliability.</li>
       </ol> 
     </td>
   </tr>
@@ -78,16 +78,16 @@ Ensures data is protected even when accessed off-site.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Expanding the talent pool.</li>
+        <li>Increased service availability.</li>
+        <li>Enhanced digital transformation.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cybersecurity threats and targeted attacks.</li>
+        <li>Confidentially breaches in home environment.</li>
+        <li>Services disruptions due to home infratsructue failures.</li>
       </ol> 
     </td>
   </tr>
@@ -97,16 +97,16 @@ Ensures data is protected even when accessed off-site.
 *You can use html tables in markdown*
 
  <table>
-  <tr>
+  
     <th>Political</th>
     <th>Economic</th>
   </tr>
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Data protection and privacy requirements.</li>
+        <li>Funding and regulation of mental health services.</li>
+        <li>National cybersecurity strategies and compliance expectations.</li>
       </ol> 
     </td>
     <td>
