@@ -155,4 +155,5 @@ Resource allocation dashboards.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
 Hot-desking is a flexible workspace system where employees do not have assigned desks but choose availble workstations each day. It aims to reduce office space costs, support hybrid work, and encourage collaboration. However, it can create challenges with personalization, setup time, and maintaining a sense of belonging among employees.
