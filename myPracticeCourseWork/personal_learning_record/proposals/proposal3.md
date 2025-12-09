@@ -32,6 +32,22 @@ https://link.springer.com/article/10.1007/s10896-021-00350-w
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Increased flexibility and staff satisfaction:
+ 
+Counsellors gain better work-life balance by avoiding commuting.
+
+Higher job satisfaction may improve retention and recruitment.
+
+2. Continuity of services:
+
+Remote access ensures counselling services can continue during; severe weather, transport disruptions and health emergencies. This reduces service interruptions and maintains client support.
+
+4. Secure remote access via VPN:
+
+A VPN provides encrypted, secure access to systems and confidential records.
+
+Ensures data is protected even when accessed off-site.
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
