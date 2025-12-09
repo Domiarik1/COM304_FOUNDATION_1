@@ -29,7 +29,8 @@ The research explores only one possible incarnation of intelligent hot-desking, 
 
 Findings strongly suggest that the hot-desking may cost more in lost productivity than it gains in reduced rental costs and as such many commercial offices should revaluate the transition, particularly with a view to facilitate intelligent hot-desking. Companies should begin to think strategically about the wider benefits of collecting occupancy data across their real estate portfolio, rather than reviewing use cases in silos. Finally, cities should consider scenarios of widespread collection of occupancy data in the private sector, examining the value these data have to city systems such as transport, and how the city might procure it for these ends.
 
-Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G., 2017. An intelligent hot-desking model harnessing the power of occupancy sensing data. Facilities, 35(13/14), pp.766-786.
+(Cooper, P.B., Maraslis, K., Tryfonas, T. and Oikonomou, G., 2017. An intelligent hot-desking model harnessing the power of occupancy sensing data. Facilities, 35(13/14), pp.766-786.)
+
 (https://www.emerald.com/f/article/35/13-14/766/70950/An-intelligent-hot-desking-model-harnessing-the)
 
 ## Initial Analysis of the Proposal
