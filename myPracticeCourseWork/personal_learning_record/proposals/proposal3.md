@@ -111,9 +111,9 @@ Ensures data is protected even when accessed off-site.
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduced operational and facility costs.</li>
+        <li>Increased efficiency and productivity.</li>
+        <li>Lower recruitment and retention costs.</li>
       </ol> 
     </td>
   </tr>
@@ -124,16 +124,16 @@ Ensures data is protected even when accessed off-site.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improved work-life balance and wellbeing.</li>
+        <li>Better access for clients through flexible scheduling.</li>
+        <li>Potential impact on team communication and connection.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Secure remote access tools and VPN technology.</li>
+        <li>Adoption of digital counselling platforms and communication tools.</li>
+        <li>Need for reliable home technology and connectivity.</li>
       </ol> 
     </td>
   </tr>
@@ -143,7 +143,14 @@ Ensures data is protected even when accessed off-site.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+  
+* What policies, procedure and training will be required to support safe end effective remote counselling?
+  
 * question 2
+
+* How will remote working affect team communication, supervision, and client service levels?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Allowing counsellors to work from home using a VPN can improve flexibility, staff wellbeing, and service continuity while reducing operational costs. However, it requires strong data security measures, reliable home technology, and clear policies to maintain confidentiality and service quality.
