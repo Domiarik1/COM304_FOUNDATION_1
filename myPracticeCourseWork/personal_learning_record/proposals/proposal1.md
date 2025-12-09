@@ -14,8 +14,7 @@ How might it be implemented?
 As a result of the pandemic wave, many offices have tried a more flexible work schedule and have become premises of a combined format of working reemotely and in the company. "Hot desk" is one of the flexible methods of work, with which you can reduce the office space and rent a more efficient room, where there will be fewer desks, more free space. Offices are being updated now, as many firms are introducing hybrid methods to adapt to a more efficient and innoviative approach. Optimization of office space is suitable for companies in which some employees work remotely, and they do not need a large number of desks.
 At the moment, hot-desking is actively developing in Russia and it is much more cost-effective for banks and various companies. By creating a unique application that allows booking jobs-MVP workplace booking Spot. We can see the picture of office optimization. For employees, "Lockers" are being created-metal multi-section lockers for storing personal belongings, which will keep the workplace clean.
 
-
-
+[Millward, L.J., Haslam, S.A. and Postmes, T., 2007. Putting employees in their place: The impact of hot desking on organizational and team identification. Organization Science, 18(4), pp.547-559.](https://www.researchgate.net/profile/S-Haslam/publication/258278295_2007_OS_Space/links/0deec527acf3b90223000000/2007-OS-Space.pdf)
 
 http://edoc.bseu.by:8080/bitstream/edoc/102679/1/Kozlovskaya_60_61.pdf
 ## Technologies and research relevant to this proposal
