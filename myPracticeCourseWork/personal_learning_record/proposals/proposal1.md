@@ -84,16 +84,16 @@ Resource allocation dashboards.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>People sit near different colleagues each day, increasing knowledge sharing and breaking down silos.</li>
+        <li>Freeing up desks allows organizations to add collaboration zones, quiet rooms, or innovation spaces.</li>
+        <li>Hot-desking aligns well with modern work patterns where employees come in only when needed, enabling more dynamic workplace strategies.</li>
       </ol> 
     </td>
     <td>
       <ol>
         <li>Potential security threats</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Some employees may feel unsettled or stressed by constantly changing workspaces, which can affect morale and retention.</li>
+        <li>Shared desks can lead to equipment shortages, connectivity problems, or inconsistent workstation setups, which may disrupt productivity.</li>
       </ol> 
     </td>
   </tr>
