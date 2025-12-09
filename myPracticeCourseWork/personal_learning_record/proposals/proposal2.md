@@ -75,16 +75,16 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>The cloud allows you to instantly scale computing resources up or down based on demand./li>
+        <li>Cloud platforms offer high availability, built-in redundancy, automated backups, and multi-region failover options.</li>
+        <li>Cloud providers handle hardware maintenance, updates, security patches, cooling, and power.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Potentially higher long-term costs.</li>
+        <li>Dependence on internet connectivity.</li>
+        <li>Migration complexity and compatibility issues.</li>
       </ol> 
     </td>
   </tr>
@@ -95,16 +95,16 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Ability to innovate faster.</li>
+        <li>Support for remote and global workforces.</li>
+        <li>Enhanced business agility and scalability.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Security breachers or data exposure.</li>
+        <li>Vendor lock-in.</li>
+        <li>Service outages or provider dependence.</li>
       </ol> 
     </td>
   </tr>
@@ -121,16 +121,16 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Government data protection and privacy regulation.</li>
+        <li>International data residency and cross-border policies.</li>
+        <li>Government support for digital transformation.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cost efficiency and reduced capital expenditure (CapEx).</li>
+        <li>Scalability reduces financial risk.</li>
+        <li>Potential long-term operational costs.</li>
       </ol> 
     </td>
   </tr>
@@ -141,16 +141,16 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Support for remote and flexible work.</li>
+        <li>Collaboration and communication enhancement.</li>
+        <li>Skills and training requirements.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Access to advanced technologies.</li>
+        <li>Improved infrastructure management.</li>
+        <li>Intergration and interoperability.</li>
       </ol> 
     </td>
   </tr>
@@ -160,7 +160,9 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* What are the cost and RIO of moving to the cloud.
 * question 2
-
+How will security, compliance, and data privacy be ensured.
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+Moving software from a server room into the cloud involves migrating applications, data, and services from on-premises physical servers to cloud-based infrastructure managed by a third-party provider. The transition allows organizations to access computing resources over the internet, providing benefits such as scalability, reduced hardware maintenance, improved reliability, and easier remotes access.
