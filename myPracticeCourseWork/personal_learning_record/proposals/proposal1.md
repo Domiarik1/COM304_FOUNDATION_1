@@ -20,6 +20,8 @@ We believe that the links we have exposed herebetween contextual factors, active
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
+
 Session 5 (Open and Closed Source).
 The study shows that sensor data can be used for desk allocation in a hot-desking environment utilising activity-based working, with results that outweigh the costs of occupancy detection. The authors are not only able to optimise desk utilisation based on quality occupancy data but also demonstrate how overall productivity increases as individuals are allocated desks of their preference as much as possible among other enabling optimisations that can be applied. Moreover, the authors explore how an increase in occupancy data collection in the private sector could have key advantages for the business as an organization and the city as a whole.
 
