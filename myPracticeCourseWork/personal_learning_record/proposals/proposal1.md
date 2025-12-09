@@ -110,16 +110,16 @@ Resource allocation dashboards.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Many governments encourage flexible working arrangements to improve work-life balance, which can make hot-desking more attractive or easier to implement.</li>
+        <li>Political decisions around sanitation, distancing, or ergonomics can directly influence how companies design shared desks and may either support or constrain hot-desking. </li>
+        <li>Government departments often face mandates to reduce office space and operating costs, making hot-desking a politically driven strategy for efficiency.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>It allows companies to lease smaller office spaces, lowering rent, utilities, and maintanance expenses.</li>
+        <li>By maximizing desk utilization, organizations avoid paying for unused workstations, increasing overall operational efficiency.</li>
+        <li>As hybrid work becomes more common, hot-desking helps companies adapt economically to fluctuating office attendance, avoiding unnecessary long-term infrastructure costs.</li>
       </ol> 
     </td>
   </tr>
@@ -130,16 +130,16 @@ Resource allocation dashboards.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Modern workers value autonomy, mobility, and flexible work arrangements, making shared desks more socially acceptable.</li>
+        <li>It encourages employees to interact with collegues from different teams, strengthening informal communication and workplace relationships.</li>
+        <li>Social attitudes toward personal space and comfort influence how people feel about not having a permanent desk, which can affect morale and culture.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Enables employees to reserve desks, see availability in real time, and reduce the chaos of finding a workspace.</li>
+        <li>Cloud storage, laptops, and mobile communication systems make it easy for employees to work from any desk without needing fixed equipment.</li>
+        <li>IoT sensors, occupancy tracking, and automated climate/lighting adjustments optimize desk usage and create a seamless hot-desking experience.</li>
       </ol> 
     </td>
   </tr>
@@ -149,8 +149,10 @@ Resource allocation dashboards.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+* How often are current desks actually being used.
 * question 2
+* How will employees book or find desks each day.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
-
+Hot-desking is a flexible workspace system where employees do not have assigned desks but choose availble workstations each day. It aims to reduce office space costs, support hybrid work, and encourage collaboration. However, it can create challenges with personalization, setup time, and maintaining a sense of belonging among employees.
