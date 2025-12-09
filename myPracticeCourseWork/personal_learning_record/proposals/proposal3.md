@@ -11,14 +11,7 @@ Allowing counsellors to work from home securely requires a structured approach t
 
 A Virtual Private Network (VPN) should be deployed to create an encrypted connection between the counsellor’s device and the council’s internal systems. This ensures that sensitive case files, emails, and scheduling tools remain protected from interception. Multi-factor authentication (MFA) should be mandatory to verify user identity before granting access.
 
-Counsellors should be provided with council-approved devices or have their personal devices configured with endpoint security tools, including antivirus, firewalls, and automatic updates. Access permissions should follow the principle of least privilege, granting only the data and systems necessary for their role.
-
-Training is essential to ensure counsellors understand secure login procedures, data handling policies, and how to report potential breaches. Regular audits and monitoring can help detect unusual activity.
-
-Finally, a clear remote working policy should outline expectations for confidentiality, working hours, and technical support, ensuring that service delivery remains consistent while safeguarding client trust.
-
-Would you like me to also create a simple diagram showing how the VPN connection works?
-
+Counsellors should be provided with council-approved devices or have their personal devices configured with endpoint security tools, including antivirus, firewalls, and automatic updates. Access permissions should follow the principle of least privilege, granting only the data and systems necessary for their role. Training is essential to ensure counsellors understand secure login procedures, data handling policies, and how to report potential breaches. Regular audits and monitoring can help detect unusual activity.
 
 
 ## Technologies and research relevant to this proposal
