@@ -60,7 +60,7 @@ http://edoc.bseu.by:8080/bitstream/edoc/102679/1/Kozlovskaya_60_61.pdf
     </td>
     <td>
       <ol>
-        <li>idea</li>
+        <li>Potential security threats</li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
