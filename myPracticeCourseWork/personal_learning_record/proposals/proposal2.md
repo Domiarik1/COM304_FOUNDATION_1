@@ -5,6 +5,12 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+This outlines a plan to move the software currently hosted in our on-premises server room to a secure, scalable cloud environment. The goal is to improve system performance, reliability, and long-term cost efficiency while supporting the organisations's digital transformation strategy. Cloud platforms provide high availability, automated failover, and built-in redundancy, reducing downtime compared to ageing on-premises hardware.
+
+Cloud providers offer enterprise-grade security, including data encryption, access controls, and continuous monitoring that surpass typical locally hosted environments, moving to the cloud eliminates the need to maintain physical servers, cooling systems, and hardware replacements. The organisation pays only for the resources it uses. Cloud resources can scale up or doen instantly based on demand, supporting business growth without major capital investment.  Cloud-hosted applications are accessible securely from any location, improving flexibility and productivity.
+
+
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
