@@ -65,7 +65,7 @@ Resource allocation dashboards.
     <td>
       <ol>
         <li>It uses less office space</li>
-        <li>idea</li>
+        <li>It significantly reduces office space costs by eliminating unused desks.</li>
         <li>idea</li>
       </ol> 
     </td>
