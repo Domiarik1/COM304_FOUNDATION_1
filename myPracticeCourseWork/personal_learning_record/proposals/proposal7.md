@@ -101,7 +101,8 @@ Potentially better alignment with business stakeholders.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
+        <li>
+        </li>
         <li>idea</li>
         <li>idea</li>
       </ol> 
