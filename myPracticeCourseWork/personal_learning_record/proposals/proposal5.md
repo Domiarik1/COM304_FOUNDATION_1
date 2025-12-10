@@ -31,6 +31,18 @@ https://link.springer.com/article/10.1007/s10668-012-9337-9
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Cost-Benefit analysis
+
+Is it financially smart?
+
+2. Risk matrix
+
+What could go wrong, and how badly?
+
+3. Capability vs Control tool
+
+Does this align with how we want to operate?
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
@@ -41,16 +53,16 @@ https://link.springer.com/article/10.1007/s10668-012-9337-9
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Lower total cost of ownership.</li>
+        <li>Greater flexibility and customization.</li>
+        <li>Avoidance of vendor lock-in.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Limited or informal support.</li>
+        <li>Higher technical skill requirements.</li>
+        <li>Potential for project instability or abandonment.</li>
       </ol> 
     </td>
   </tr>
@@ -61,16 +73,16 @@ https://link.springer.com/article/10.1007/s10668-012-9337-9
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Ability to innovate and build competitive advantages.</li>
+        <li>Growing ecosystems and community innovation.</li>
+        <li>Freedom to scale and evolve without licensing barriers.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Fragmentation and compatibility issues.</li>
+        <li>Project discontinuation or community decline.</li>
+        <li>Legal and compliance risks.</li>
       </ol> 
     </td>
   </tr>
@@ -87,16 +99,16 @@ https://link.springer.com/article/10.1007/s10668-012-9337-9
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Encourages transparency and accountability in public technology.</li>
+        <li>Supports local innovation and economic development.</li>
+        <li>Promotes digital sovereignty and reduces dependence on foreign vendors.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Lower total cost of ownership.</li>
+        <li>Increase local economic value creation.</li>
+        <li>Stimulates competitive markets and reduces vendor monopoly power.</li>
       </ol> 
     </td>
   </tr>
@@ -107,16 +119,16 @@ https://link.springer.com/article/10.1007/s10668-012-9337-9
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Supports digital inclusion and equal access.</li>
+        <li>Encourages collaboration and knowledge sharing.</li>
+        <li>Builds trust through transparency.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Faster and more flexible innovation.</li>
+        <li>High customizability and technical control.</li>
+        <li>Greater transparency for security, reliabilty, and optimization.</li>
       </ol> 
     </td>
   </tr>
@@ -126,7 +138,15 @@ https://link.springer.com/article/10.1007/s10668-012-9337-9
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* Do we have the internal skills to maintain, customize, or troubleshoot open-source software?
+  
 * question 2
+
+* Do we need transparency for code audits, security checks, or compliance.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Preferring open-source software can be a strong choice when an organization values cost savings, flexibility, transparency, and independence. OSS is especially attractive when technical capability is available in-house or when customization and control are important. It may be less suitable when an organization requires guaranteed vendor support, turnkey reliability, or specialized features that only proprietary products offer.
+
