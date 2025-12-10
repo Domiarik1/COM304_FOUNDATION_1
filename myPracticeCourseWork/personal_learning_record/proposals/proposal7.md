@@ -101,16 +101,16 @@ Potentially better alignment with business stakeholders.
   <tr>
     <td>
       <ol>
-        <li>hhh</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Changing Decision-Making structures.</li>
+        <li>Influence of platform vendors.</li>
+        <li>Empowering Non-Technical staff.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Reduced development and operational costs.</li>
+        <li>Increased economic agility and faster ROI.</li>
+        <li>Platform subscription and scaling costs.</li>
       </ol> 
     </td>
   </tr>
@@ -121,16 +121,16 @@ Potentially better alignment with business stakeholders.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Shift in professional identities and team dynamics.</li>
+        <li>Increased inclusivity and democratization of development.</li>
+        <li>Enhanced communication and collaboration culture.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Leveraging rapid application development tools.</li>
+        <li>Increased use of Cloud-Native and intergrated ecosystem.</li>
+        <li>Automation and AI-Driven capabilities.</li>
       </ol> 
     </td>
   </tr>
@@ -140,7 +140,16 @@ Potentially better alignment with business stakeholders.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* How will this shift affect developer roles?
+  
 * question 2
+
+* Do we have leadership support for the cultural transformation required for Agile and LCNC?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Shifting from traditional programming to LCNC and Agile can significantly accelerate development speed, improve collaboration, and reduce reliance on highly specialized technical skills. This approach is especially beneficial for organizations seeking rapid prototyping, quicker time-to-market, and the ability to adapt quickly to changing business needs. Agile's iterative cycles complement LCNC tools by enabling continuous improvement and stakeholder involvement throughout the development process.
+
+
