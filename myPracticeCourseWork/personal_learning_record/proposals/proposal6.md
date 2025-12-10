@@ -18,6 +18,18 @@ To drive uptake, the council should promote digital channels as the default opti
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
+With the scale of society's ever-evolving challenges increasingly outstripping the capacity of the public sector, budget-strapped governments have had to look for innovative new ways to deliver public value. Much hope is placed on the advent of social media, ubiquitous mobile connectivity, and web 2.0 interactivity, which for the first time provide channels not just for mass dissemination but also for mass production and collaboration (Benkler, 2006)—thereby unlocking for citizens “unimagined opportunities to do more for themselves” (Johnston & Hansen, 2011).
+
+
+Driven by rising citizen expectations and the need for government innovation, social media has become “a central component of e-government in a very short period of time” (Bertot, Jaeger, & Hansen, 2012). Scholars see in these new interactive channels the potential to “rethink traditional boundaries between individuals, the public, communities, and levels of government” in ways that “dramatically alter how the public and government interact, develop solutions, and deliver services” (Bertot, Jaeger, Munson, & Glaisyer, 2010).
+
+
+The resulting evolution of the government-citizen relationship centers in large part on a reimagining of the concept of “citizen coproduction,” as this becomes both “more relevant and viable with advances in technology” (Johnston & Hansen, 2011). In such arrangements, government treats the public not as customers but as partners, expanding the role of the citizen from one of “mere passive consumption of public services to one of active involvement to jointly tackle social problems” (Mattson, 1986). In the resulting joint production, citizens contribute more resources in the form of “time, expertise, and effort” to achieve “an outcome, share more responsibility, and manage more risk in return for much greater control over resources and decisions” (Horne & Shirley, 2009).
+
+Linders, D., 2012. From e-government to we-government: Defining a typology for citizen coproduction in the age of social media. Government information quarterly, 29(4), pp.446-454.
+
+(https://www.sciencedirect.com/science/article/abs/pii/S0740624X12000883)
+
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
