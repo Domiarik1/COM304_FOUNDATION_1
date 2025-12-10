@@ -33,6 +33,22 @@ Linders, D., 2012. From e-government to we-government: Defining a typology for c
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Cost-Benefit comparison:
+
+Reduced processing time.
+
+Fewer inbound calls.
+
+More automated workflows.
+
+2. Customer journey comparison:
+
+Phone or visit > wait > staff log request > back-and-forth > completion. 
+
+Website/app > complete form > instant
+
+Confirmation > track progress > completion.
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
