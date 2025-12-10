@@ -59,16 +59,16 @@ Confirmation > track progress > completion.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Faster and more efficient service delivery.</li>
+        <li>Reduced demand on phone and face-to-face services.</li>
+        <li>Convenience and 24/7 access.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Upfront investment and ongoing maintenance.</li>
+        <li>Reliance on technology.</li>
+        <li>Digital exclusion.</li>
       </ol> 
     </td>
   </tr>
@@ -79,16 +79,16 @@ Confirmation > track progress > completion.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Service innovation and expansion.</li>
+        <li>Better customer experience and engagement.</li>
+        <li>Data-Driven decision making.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Technology failures or limitations.</li>
+        <li>Poor adoption by residents.</li>
+        <li>Cybersecurity and data privacy risks.</li>
       </ol> 
     </td>
   </tr>
@@ -105,16 +105,16 @@ Confirmation > track progress > completion.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Demonstrating modernisation and efficiency.</li>
+        <li>Accountability and transparency.</li>
+        <li>Promoting inclusivity and access.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Efficient resource allocation.</li>
+        <li>Cost savings on service delivery.</li>
+        <li>Stimulating local digital economy.</li>
       </ol> 
     </td>
   </tr>
@@ -125,16 +125,16 @@ Confirmation > track progress > completion.
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improved accessibility and convenience for residents.</li>
+        <li>Strengthening community engagement.</li>
+        <li>Encouraging digital literacy.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Mobile optimization and user-friendly design.</li>
+        <li>Use of analytics and automation.</li>
+        <li>Integration with Back-End systems.</li>
       </ol> 
     </td>
   </tr>
@@ -144,7 +144,14 @@ Confirmation > track progress > completion.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* How will we ensure services are efficient, secure, and reliable?
+  
 * question 2
+
+* Are all residents able to access and use digital services?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Making the council's website and app the primary gateways for public engagement (digital first) means designing services so that residents access, request, and manage council services online as the default option. Instead of relying on phone calls, in-person visits, or paper forms, residents would use the website or app to complete tasks such as paying bills, reporting issues, booking services, or applying for permits.
