@@ -26,6 +26,20 @@ https://www.sciencedirect.com/science/article/abs/pii/S0016328721001956
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Cost to evaluate:
+
+AI software/platform licenses.
+
+Integration and IT upgrades.
+
+Benefits to evaluate:
+
+Hours saved through automation.
+
+Reduced processing delays.
+
+SWOT: Faster service delivery, Upfront investment in technology and training, better resident satisfaction, ethical concerns or public distrust.
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
@@ -36,16 +50,16 @@ https://www.sciencedirect.com/science/article/abs/pii/S0016328721001956
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Increased efficiency and faster service delivery.</li>
+        <li>Enhanced Decision-Making through data insights.</li>
+        <li>Improved accuracy and consistency.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>High initial costs and technical complexity.</li>
+        <li>Risk of staff resistance or skill gaps.</li>
+        <li>Dependence on data quality and system integration.</li>
       </ol> 
     </td>
   </tr>
@@ -56,16 +70,16 @@ https://www.sciencedirect.com/science/article/abs/pii/S0016328721001956
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Better resource allocation and cost savings.</li>
+        <li>Improved resident experience and engagement.</li>
+        <li>Data-Driven planning and innovation.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Over-Reliance on technology and vendor Lock-in.</li>
+        <li>Cybersecurity and data privacy risks.</li>
+        <li>Public concern and ethical challenges.</li>
       </ol> 
     </td>
   </tr>
@@ -82,16 +96,16 @@ https://www.sciencedirect.com/science/article/abs/pii/S0016328721001956
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Shifting power dynamics within the council.</li>
+        <li>Accountability and transparency expectation.</li>
+        <li>Public trust and perception management.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Long-Term Cost savings through automation.</li>
+        <li>More efficient use of public resources.</li>
+        <li>Economic growth through innovation and digital transformation.</li>
       </ol> 
     </td>
   </tr>
@@ -102,16 +116,16 @@ https://www.sciencedirect.com/science/article/abs/pii/S0016328721001956
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Improved accessibility and resident experience.</li>
+        <li>Stronger community engagement through better insights.</li>
+        <li>Changing workforce roles and community perceptions.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Predictive analytics for smarter Decison-Making.</li>
+        <li>Integration of AI with didital platforms and legacy systems.</li>
+        <li>Automation of routine administrative tasks.</li>
       </ol> 
     </td>
   </tr>
@@ -121,7 +135,16 @@ https://www.sciencedirect.com/science/article/abs/pii/S0016328721001956
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* How will AI adoption affect residents and staff, and what measures are needed to maintain trust and transparency.
+  
 * question 2
+
+* Which council processes are most suitale for AI automation, and what measurable improvements can we expect?
+  
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Simplifying a council's operations using AI can significantly improve efficiency, accuracy, and service delivery. AI automates repetitive tasks, reduces administrative burdens, and speed up responses to residents, allowing staff to focus on higher-value, community-focused work. It also enhances decision-making through data analysis and predictive insights, supporting better planning and resource allocation. However, successful implementation requires good data quality, staff training, and strong governance to ensure transparency, fairness, and pricavy.
+
