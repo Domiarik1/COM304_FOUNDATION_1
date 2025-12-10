@@ -31,6 +31,20 @@ https://www.researchgate.net/profile/Rohit-Khankhoje/publication/376885521_Beyon
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Cost of switching:
+
+Training team in new tools and Agile processes.
+
+Potential vendor/platform subscription fees.
+
+2. Benefits of switching:
+
+Faster prototyping and deployment .
+
+Reduced dependency on highly specialized developers.
+
+Potentially better alignment with business stakeholders.
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
@@ -41,16 +55,16 @@ https://www.researchgate.net/profile/Rohit-Khankhoje/publication/376885521_Beyon
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Faster development and time-to-market.</li>
+        <li>Lower dependency on highly skilled developers.</li>
+        <li>Enhanced flexibility and adaptability.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Limited customization and flexibility.</li>
+        <li>Vendor Lock-in and dependency.</li>
+        <li>Performance and scalability constraints.</li>
       </ol> 
     </td>
   </tr>
@@ -61,16 +75,16 @@ https://www.researchgate.net/profile/Rohit-Khankhoje/publication/376885521_Beyon
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Increased collaboration across teams.</li>
+        <li>Rapid prototyping and innovation.</li>
+        <li>Better responsiveness to market and business changes.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Scalability and performance risks.</li>
+        <li>Security and compliance concerns.</li>
+        <li>Vendor Lock-in and platform dependence.</li>
       </ol> 
     </td>
   </tr>
