@@ -24,6 +24,8 @@ https://link.springer.com/article/10.1007/s10663-022-09548-7?fromPaywallRec=true
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
+I approach the exercise by first analyzing the problem statements carefully and choosing the language best suited for each task. one of my choice was Python for rapid prototyping and handling complex data structures efficiently. Java was used 
+
 
 
 ## Summary of learning
