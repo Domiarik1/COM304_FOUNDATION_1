@@ -19,7 +19,9 @@ The evolution of networking architectures has been marked by the transition from
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-
+I completed exercises like choosing the best route in a router, a router recieves a packet destined for an address that matches three different routes in its routing table. The router must select the route with the longest and most specific prefix. Even though one route covers a large network and another covers a medium sized one, the third route contains the most specific prefix length. Because routers always choose the most specific match, the packet is forwarded along that route, ensuring the most precise and efficient delivery. And i also tried identifying the correct transport protocol, this is a user that tries to determine whether TCP or UPD is better for different applications. When examing video conferencing traffic, the user realizes that speed is more important than guaranteed delivery, meaning a few lost packets will not break the conversation. Therefore, UPD is more suitable. However, when downloading a large file, every packet must arrive intact and in the correct order, so TCP is preffered because it provides reliability and retransmission.
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+I learned that routers decide where to send packets by selecting the most specific matching route in their table. This process is called longest prefix match, when multiple routes overlap, the router chooses the one with the longest subnet mask because it represents the most precise destination. For example, if a packet is adressed to a network that appears in entries with masks /16, /24, and /28, the router will always pick the /28 route. Even if other routes have lower cost or different next hops, prefix length takes priority, this ensures accurate, efficient, and predictable packet forwarding.
