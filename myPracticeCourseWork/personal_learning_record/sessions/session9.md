@@ -16,6 +16,8 @@ Network operating systems such as Novell NetWare and Microsoft NT were developed
 
 The evolution of networking architectures has been marked by the transition from traditional static networks to programmable and virtualized environments, enabling greater flexibility, scalability, and cost efficiency. Modern paradigms such as Software-Defined Networking and Network Functions Virtualization have transformed network design and management by decoupling hardware and software components, allowing dynamic configuration and rapid deployment of network functions. In the context of the Internet of Things (IoT), SDN and NFV facilitate scalable, energy-efficient, and secure network operations, supporting the integration of heterogeneous devices and real-time data processing. The adoption of machine learning techniques in network softwarization addresses challenges in design, implementation, and security, enabling real-time optimization and adaptive protection against evolving threats.
 
+(https://www.sciencedirect.com/topics/computer-science/networking-technology)
+
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
