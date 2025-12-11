@@ -30,3 +30,5 @@ One of the exercise i have completed was Python, it involved solving algorithmic
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+I learnt how to create algorithms, and manage data using different programming paradigms, taught me logical thinking, problem solving and debugging techniques, learned how to design software, automate tasks, and optimize performance. Each language offers unique features, helping me understanding different approaches to progtramming, and also gained knowledge in software development, web and mobile application, data analysis, artificial intelligence and automation. 
