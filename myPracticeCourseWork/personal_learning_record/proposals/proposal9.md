@@ -29,6 +29,14 @@ https://academicjournals.org/article/article1393316180_Olayemi.pdf
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
 
+1. Costs:
+
+Staff training on cybersecurity best practices.
+
+System updates, practicing, and IT support.
+
+SWOT: Protects sensitive resident and council data, requires upfront investment in technology, adoption of modern cybersecurity tools and practices, Cyber threats constantly evolve, failure to harden effectively can still result in breaches.
+
 ### SWOT Analysis
 *You can use html tables in markdown*
  <table>
@@ -39,18 +47,18 @@ https://academicjournals.org/article/article1393316180_Olayemi.pdf
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Continuity of council services.</li>
+        <li>Protection of sensitive data.</li>
+        <li>Enhanced public trust and compliance.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Potential operational slowdowns.</li>
+        <li>High implimentation and maintenance costs.</li>
+        <li>Reliance on staff compliance.</li>
       </ol> 
-    </td>
+    </>
   </tr>
   <tr>
     <th>Opportunity</th>
