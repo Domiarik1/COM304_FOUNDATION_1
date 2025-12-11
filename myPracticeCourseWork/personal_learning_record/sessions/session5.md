@@ -24,7 +24,7 @@ https://link.springer.com/article/10.1007/s10663-022-09548-7?fromPaywallRec=true
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-I approach the exercise by first analyzing the problem statements carefully and choosing the language best suited for each task. one of my choice was Python for rapid prototyping and handling complex data structures efficiently. Java was used 
+One of the exercise i have completed was Python, it involved solving algorithmic problems, implementing data structures, and creating solutions that required both efficiency and accuracy. Python's simplicity and readability made it easy to write and test code quickly. I was able to implement complex algorithms with minimal lines of code, and built-in functions helped me handle tasks such as sorting, searching, and manipulating data efficiently. All solution executed correctly, and the outputs matched the expected results for every test case. The languages's dynamic typing and flexibility allowed me to experiment with different approaches without extensive setup Execution times were fast for most tasks, though Python was slightly slower compared to compiled languages like C++ in performance-heavy scenarios. Despite this, the focus of the exercise was correctness and problem-solving, areas in which Python excelled. 
 
 
 
