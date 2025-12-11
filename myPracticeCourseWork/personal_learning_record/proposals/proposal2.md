@@ -160,9 +160,13 @@ Makes DevOps pipelines easier with infrastructure as code and automation tools.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
-* What are the cost and RIO of moving to the cloud.
+  
+* What are the cost and RIO of moving to the cloud?
+
 * question 2
-* How will security, compliance, and data privacy be ensured.
+  
+* How will security, compliance, and data privacy be ensured?
+  
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
 
