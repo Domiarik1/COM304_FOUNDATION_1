@@ -20,7 +20,9 @@ Cloud computing is typically implemented as a public cloud. Third-party enterpri
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-
+As a part of my cloud computing practice, i completed an exercise where i had to migrate a small web application from a local environment to the cloud. The goal was to choose the most suitable cloud service model and then deploy the application while ensuring scalability and reliability. I began by analyzing the three main service models; IaaS, PaaS, and SaaS. I ruled out SaaS because i needed to keep full control over virtual machines, but it required managing operating system, updates, and security patches. PaaS, however, provided a managed environment where i could deploy my application without worrying about server maintenance. By completing this exercise, i gained practical experience in evaluating cloud service models, deploying applications on a managed platform, and optimizing performance using cloud-native features, it strengthened my understanding of modern cloud deployment strategies. 
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+I learned how modern computing resources can be delivered over the internet instead of relying on physical on-site hardware. I gained an understanding of the three main service models; IaaS, which provides virtual machines and storage; PaaS, which offers managed development environments, and SaaS, which delivers full applications to users. I also learned how cloud provides use virtualization to create scalable and flexible resource pools.
