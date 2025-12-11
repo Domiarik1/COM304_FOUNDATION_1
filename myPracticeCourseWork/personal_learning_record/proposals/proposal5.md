@@ -145,7 +145,7 @@ Does this align with how we want to operate?
   
 * question 2
 
-* Do we need transparency for code audits, security checks, or compliance.
+* Do we need transparency for code audits, security checks, or compliance?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
