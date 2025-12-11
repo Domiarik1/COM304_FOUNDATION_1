@@ -141,3 +141,5 @@ SWOT: Protects sensitive resident and council data, requires upfront investment 
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+
+Hardening the council's security stance against cybercrime requires strengthening technical controls, improving organisational awareness, and ensuring consistent security practices. I understand that cyber risks often come from weak passwords, outdated software, poor access control, and human error, so addressing these areas is essential. Implementing multi-factor authentification, applying regular system updates, and reducing unnecessary permission significantly improves resilience. I am aware that councils must comply with data protection laws, so strengthening incident response processes and backing up critical systems helps ensure continuity and legal compliance.   
