@@ -14,7 +14,7 @@ An Operating system is an interface between users and the hardware of a computer
 
 Main memory is a flexible and volatile type of storage device. It is a large sequence of bytes and addresses used to store volatile data. Main memory is also called Random Access Memory (RAM), which is the fastest computer storage available on PCs. It is costly and low in terms of storage as compared to secondary storage devices. Whenever computer programs are executed, it is temporarily stored in the main memory for execution. Later, the user can permanently store the data or program in the secondary storage device. The components of an operating system work together to make a computer system function easily. Each component, from process management to security, plays a unique role in handling tasks, managing resources, and ensuring data safety. By coordinating these functions, the operating system provides a stable and efficient environment for users and applications.
 
-
+(https://www.geeksforgeeks.org/operating-systems/components-of-operating-system/)
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
