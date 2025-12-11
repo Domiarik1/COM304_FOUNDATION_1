@@ -66,14 +66,14 @@ Resource allocation dashboards.
       <ol>
         <li>It uses less office space.</li>
         <li>It significantly reduces office space costs by eliminating unused desks.</li>
-        <li></li>
+        <li>Increased flexibility.</li>
       </ol> 
     </td>
     <td>
       <ol>
         <li>Reduced sense of ownership and belonging(employees may feel less connected to their workspace when they can't personalize a permanent desk.</li>
         <li>Potential for daily setup frustration(finding a suitable desk, reconnecting equipment, and adjusting settings can create inefficiencies and stress.</li>
-        <li>idea</li>
+        <li>Imapct on employee morale and sense of ownership.</li>
       </ol> 
     </td>
   </tr>
@@ -149,9 +149,12 @@ Resource allocation dashboards.
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
-* How often are current desks actually being used.
+  
+* How often are current desks actually being used?
+  
 * question 2
-* How will employees book or find desks each day.
+  
+* How will employees book or find desks each day?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
