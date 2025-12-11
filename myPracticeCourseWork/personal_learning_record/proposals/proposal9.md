@@ -67,16 +67,16 @@ SWOT: Protects sensitive resident and council data, requires upfront investment 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Adoption of advanced cyber security technologies.</li>
+        <li>Strengthening public confidence and reputation.</li>
+        <li>Collaboration and knowledge sharing.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Resource and budget limitations.</li>
+        <li>Evolving and sophisticated cyber attacks.</li>
+        <li>Public perception and trust risks.</li>
       </ol> 
     </td>
   </tr>
@@ -93,16 +93,16 @@ SWOT: Protects sensitive resident and council data, requires upfront investment 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Leadership accountability and governance.</li>
+        <li>Policy and regulatory alignment.</li>
+        <li>Public trust and community confidence.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Cost savings by preventing breaches.</li>
+        <li>Efficient resource allocation.</li>
+        <li>Attracting investment and partnerships.</li>
       </ol> 
     </td>
   </tr>
@@ -113,16 +113,16 @@ SWOT: Protects sensitive resident and council data, requires upfront investment 
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Protecting residents privacy and personal data. </li>
+        <li>Promoting a cyber-aware culture.</li>
+        <li>Maintaining confidence in public services.</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>Network segmentation and system hardening.</li>
+        <li>Data encryption and backup solutions.</li>
+        <li>Implementation of advanced security tools.</li>
       </ol> 
     </td>
   </tr>
@@ -132,7 +132,12 @@ SWOT: Protects sensitive resident and council data, requires upfront investment 
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
 * question 1
+
+* How well are the staff trained and governed to follow cybersecurity best practices?
+  
 * question 2
+
+* How resilient are our current systems and network against potential cyber threats?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
