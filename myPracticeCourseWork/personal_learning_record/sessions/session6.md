@@ -20,7 +20,11 @@ Modern operating systems allow several people to use the same computer, permit u
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
 
-
+When exploring a modern operating system, several hands-on execises help reveal its internal structure. One useful exercise is inspecting running processes using tools such as top, Task manager or Activity monitor. The results show how the OS manages multitasking by assigning CPU time, tracking memory usage, and prioritizing threads. Another exercise is examining the file system layout, including directories like, usr and proc on Unix-based systems. This reveals how configuration files, binaries, and virtual system information are organized and how the OS separates user data from system components. Also experimenting with system calls, by writing simple programs that create processes or access files provides insight into the interface between applications and the Kernel, this exercises highlight the layered architecture, security mechanisms, and resource management strategies that define modern operating system structures.
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+I gained insight into kernel architecture, including how the kernel controls hardware, schedules processes, and enforces memory protection. This helped me understand why applications cannot directly access hardware and how the OS maintains system reliability. I also learned about process and thread management, how the system creates, switches between, and terminates tasks. This revealed how multitasking works and why some programs feel faster or slower depending on scheduling and resource allocation. Exploring memory managment also taught me about virtual memory, paiging, segmentation, allocation strategies, and how the OS isolated processes to prevent crashes or security breaches. Generally i learned how complex, interconnected components work together to provide a stable, secure, and efficient computing environment. 
+
+
