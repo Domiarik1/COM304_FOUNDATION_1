@@ -136,7 +136,7 @@ SWOT: Faster service delivery, Upfront investment in technology and training, be
 
 * question 1
 
-* How will AI adoption affect residents and staff, and what measures are needed to maintain trust and transparency.
+* How will AI adoption affect residents and staff, and what measures are needed to maintain trust and transparency?
   
 * question 2
 
