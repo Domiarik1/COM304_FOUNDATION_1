@@ -5,8 +5,26 @@
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
 
+Hardening the council's security stance against cyber crime involves implementing a comprehensive approach to protect sensitive data and maintain public trust. This includes adopting a Zero Trust Security Model, strengthening cloud security for remote work, and protecting against ransomware attacks. The Cyber Assessment Framework for local government is a tool that can help councils assess and improve their cyber resilience, ensuring they are equipped to handle the evolving threats they face. By taking these steps, councils can significantly reduce the risk of cyber crime and ensure the sustainability of their services. 
+
+Monitoring and threat detection are essential components. Real-time network monitoring, vulnerability scanning, and penetration testing help identity and respond to potential threats before they cause damage. Backup and recovery systems ensure that essential data and services can be restored quickly in case of an incident. Equally important is staff awareness and governance. Training employees to recognize phishing, social engineering, and unsafe practices reduces human error, a major source of breaches. Establishing clear policies, accountability, and incident response plans ensures that the council can respond effectively to cyber threats.
+ 
+
+It can be implemented by Using end-to-end encryption for all cloud communications, ensure cloud providers meet government security standards, and regularly audit third-party cloud applications to minimize risks, backup data frequently, patch vulnerabilities, and train staff to spot phishing emails. Assume a breach will happen and have a robust incident response plan in place. Also educate employees on phishing scams and social engineering tactics, ensure they use strong passwords, and avoid password reuse, utilize technology that can detect threats in real-time to respond quickly to potential breaches, and encrypt data to make it unreadable to attackers, adding a vital layer of security. 
+
+
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+
+The development of the internet and the widened access to computer technology has created new opportunities for work and business activities, as well as those who engage in illegal activities. The rise of technology and online communication has not only produced a dramatic increase in the incidence of criminal activities, but has also resulted in the emergence of what appears to be a new variety of criminal activities. Both the increase in the incidence of criminal activities and the possible emergence of new varieties of criminal activity pose challenges for legal systems, as well as for law enforcement (Brenner, 2007). While technological advancements have produced radical shifts in the ability to reproduce, distribute, control, and publish information, the internet in particular has radically changed the economics and ease of reproduction (Longe and Chiemeke, 2008). Computer networks have also radically changed the economics of distribution. 
+
+With transmission speeds approaching a billion characters per second, networks enable the sending of information products worldwide, cheaply and almost instantaneously. For Nigeria, a nation in the process of saving her face regarding cybercrimes, efforts are now being directed at the sources and channels through which cybercrimes are perpetuated. The task of re-stigmatizing cybercrime and re-dignifying honest is not as easy as that of institutionalising a deterrence mechanism like code of conduct bureau, independent corrupt practice commission, economic and financial crime commission.
+
+Undoubtedly, the liberalization of telecoms and Internet penetration policies of government have yielded unprecedented growth in Information and Communication Technology, leading to increased dependence on technology for the delivery of basic as well as critical services in Nigeria amongst citizens, businesses and governments. A cybersecurity framework is therefore inevitable to compliment these great strides by government, secure and protect the underlying ICT infrastructures and boost consumers confidence as well as the general public.  
+
+(Olayemi, O.J., 2014. A socio-technological analysis of cybercrime and cyber security in Nigeria. International Journal of Sociology and Anthropology, 6(3), p.116.)
+
+https://academicjournals.org/article/article1393316180_Olayemi.pdf
 
 ## Initial Analysis of the Proposal
 *Use some simple analysis tools to help you think through whether the proposal is a good idea*
